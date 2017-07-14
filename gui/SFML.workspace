@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SFML" Database="">
+  <Project Name="SFMLtest" Path="SFMLtest/SFMLtest.project" Active="No"/>
+  <Project Name="RealGui" Path="RealGui2.0/RealGui.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SFMLtest" ConfigName="Debug"/>
+      <Project Name="RealGui" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SFMLtest" ConfigName="Release"/>
+      <Project Name="RealGui" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
